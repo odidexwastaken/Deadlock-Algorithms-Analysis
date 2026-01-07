@@ -5,7 +5,7 @@ Bu proje, İşletim Sistemleri (Operating Systems) dersi kapsamında; **Ölümc�
 ## Projenin Amacı
 Modern işletim sistemlerinde sınırlı kaynakların (CPU, RAM, I/O vb.) paylaşımı sırasında oluşan Deadlock problemini çözmek için kullanılan algoritmaların; **İşlemci Yükü (Overhead)**, **İşlem Süresi** ve **Veri Kaybı (Wasted Value)** açısından kıyaslanmasıdır.
 
-## ⚙️ Özellikler & Desteklenen Algoritmalar
+##  Özellikler & Desteklenen Algoritmalar
 
 Proje modüler bir yapıya sahiptir ve aşağıdaki yaklaşımları destekler:
 
